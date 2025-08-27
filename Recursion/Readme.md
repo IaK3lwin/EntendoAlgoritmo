@@ -1,10 +1,10 @@
 ## Caso base e caso recursivo
 
 <p>Por conta de ser recursivo, é normal acabar escrevendo uma função recursiva
-erroniamente. Causando um Loop infinito! Imagine que temos um <a href="./contagem_regressiva_errado.py">
+erroniamente. Causando um Loop infinito! Imagine que temos um <a href="./contagem_erro/contagem_regressiva_errado.py">
     algoritmo que faça
     uma contagem regressiva
-</a> | <a href="./contagem_erro.go">versão em go</a>: 3... 2... 1... 0 </p>
+</a> | <a href="./contagem_erro/contagem_erro.go">versão em go</a>: 3... 2... 1... 0 </p>
 
 ``` lang="golang"
 package main
@@ -77,7 +77,7 @@ func saude(name string) {
 }
 ```
 
-    A função saude é a primeira instrução a ser carregada e é criado um "bloco" para
+<p>A função saude é a primeira instrução a ser carregada e é criado um "bloco" para</p>
 a chamada dela, digamos que como parâmetro de saude usamos Andrezza.
 O valor como de andrezza que foi passado como  argumento será alocada nesse
 "bloco" da função saude e vamos para o próximo comando: 

@@ -1,6 +1,7 @@
 # anotações sobre o livro **Entendendo Algoritmos**
 
-## Bimary Search
+## Binary Search
+    Um algoritmo de pesquisa bem efetivi! 
 <a href="./SelectionSort/Readme.md" > Ir para </a>
 
 ## Selection Sort
@@ -14,14 +15,8 @@
     em comparação com o uso de loops, mas muitos algoritmos ultilizam recursão!
 </p>
 
-> <blockquote>"Os loops podem melhorar o desempelnhho do seu programa. A recursão melhora o deempenho do seu programador." <author>- Leigh Caldwell, do StackOverflow.</author> </blockquote>  
+<blockquote>"Os loops podem melhorar o desempelnhho do seu programa. A recursão melhora o deempenho do seu programador." <author>- Leigh Caldwell, do StackOverflow.</author> </blockquote>  
 
 <a href="./Recursion/Readme.md">mostrar mais</a>
 
 ##
-
-<style>
-    p {
-        text-indent: 1rem;
-    }
-</style>
