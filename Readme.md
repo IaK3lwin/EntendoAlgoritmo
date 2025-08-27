@@ -1,7 +1,7 @@
 # anotações sobre o livro **Entendendo Algoritmos**
 
 ## Binary Search
-    Um algoritmo de pesquisa bem efetivi! 
+   Um algoritmo de pesquisa bem efetivo! 
 <a href="./SelectionSort/Readme.md" > Ir para </a>
 
 ## Selection Sort
