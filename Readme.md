@@ -19,4 +19,7 @@
 
 <a href="./Recursion/Readme.md">mostrar mais</a>
 
+## QuickSort
+Um algoritmo que usa o conceito dividir para conquistar(DC)
 
+<a>Ver mais sobre quicksort</a>
