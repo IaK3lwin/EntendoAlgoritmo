@@ -48,7 +48,7 @@ func CriarArrayComMaioresQueOpivo(slice []int, pivo int) []int {
 }
 
 func main() {
-	slice := []int{1,2,3,4,5,6,6,7}
+	slice := []int{5,2,56,765,78,2541,6,3,23,8,7}
 
 	fmt.Println(quicksort(slice))
 }
