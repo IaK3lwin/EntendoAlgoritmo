@@ -2,7 +2,7 @@
 
 ## Introdução aos grafos
 
-Grafos não envolvem eixos, tanto x,y ou x,y,z ele não representa espalo mas sim relações.
+Grafos **não** envolvem eixos, tanto x,y ou x,y,z ele não representa espaço ou direção, mas sim **relações**.
 
 ## Uma pequena viagem
 
@@ -28,3 +28,17 @@ Você deve a Jonn, ele deve Iran e ao Robert e Andis deve a Jonn.
 As relações chamamos de Arestas e os "objetos" de relação de verteces.
 
 ![Estrutura do grafo](./assets/strutureGrafos.png)
+
+# Pesquida em Largura
+
+Ela responde duas perguntas:
+
+- Existe um caminho do ponto A até o B?
+- Qual o menor caminho do ponto A até o B?
+
+O funcionamento é bem simples!
+Tenha as conexões de amigos, caso queira encontrar um amigo que seja desenvolvedor, por exemplo:
+
+![Imagem de grafo representando relação de amigos](./assets/grafoIsDeveloepr.png)
+
+Agora vá até eles pergunta um por um se são desenvolvedores
